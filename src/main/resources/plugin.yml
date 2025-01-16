@@ -1,0 +1,20 @@
+main: pl.flezy.portal.Main
+name: PortalControl
+version: 1.2
+description: Plugin na zarządzanie wymiarami
+api-version: 1.17
+author: Flezy
+website: flezy.pl
+commands:
+  portal:
+    description: Komenda na zarządzanie wymiarami
+    usage: /<command>
+    permission: flezy.portal.command
+    permission-message: §cNie masz permisji do używania tej komendy
+permissions:
+  flezy.portal.command:
+    description: Permisja do komendy /portal
+    default: op
+  flezy.portal.bypass:
+    description: Permisja do omijania ograniczeń portali
+    default: op

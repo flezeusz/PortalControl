@@ -1,0 +1,69 @@
+#włączanie/wyłączanie netheru
+nether: false
+#włączanie/wyłączanie endu
+end: false
+
+#komunikat na chacie
+message:
+  enabled: true
+  message: '&cTen wymiar jest zablokowany'
+
+#czy teleportować graczy na ich spawna po wyłączeniu wymiaru
+teleport:
+  nether: true
+  end: true
+
+#ogłoszenia
+announcement:
+  netherOn:
+      enabled: true
+      title: '&aNether Włączony'
+      subtitle: '&7Portal do netheru jest teraz aktywny!'
+      #w tickach (1 sek = 20 ticków)
+      timing:
+        fade_in: 10
+        stay: 70
+        fade_out: 20
+      sound:
+        enabled: true
+        #https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+        name: ENTITY_WITHER_SPAWN
+  netherOff:
+    enabled: true
+    title: '&cNether Wyłączony'
+    subtitle: '&7Portal do netheru jest teraz nieaktywny'
+    #w tickach (1 sek = 20 ticków)
+    timing:
+      fade_in: 10
+      stay: 70
+      fade_out: 20
+    sound:
+      enabled: true
+      #https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+      name: ENTITY_WITHER_AMBIENT
+  endOn:
+      enabled: true
+      title: '&aEnd Włączony'
+      subtitle: '&7Portal do endu jest teraz aktywny'
+      #w tickach (1 sek = 20 ticków)
+      timing:
+        fade_in: 10
+        stay: 70
+        fade_out: 20
+      sound:
+        enabled: true
+        #https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+        name: BLOCK_END_PORTAL_SPAWN
+  endOff:
+    enabled: true
+    title: '&cEnd Wyłączony'
+    subtitle: '&7Portal do endu jest teraz nieaktywny'
+    #w tickach (1 sek = 20 ticków)
+    timing:
+      fade_in: 10
+      stay: 70
+      fade_out: 20
+    sound:
+      enabled: true
+      #https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+      name: BLOCK_END_PORTAL_FRAME_FILL
