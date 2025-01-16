@@ -10,14 +10,11 @@
 - **Pełna konfigurowalność** - dostosuj wszystkie funkcje pluginu do swoich potrzeb
 
 ## 🛠️ Komendy
-`/portal nether <on/off>`
-Zarządzanie dostępnością Netheru
+`/portal nether <on/off>` - zarządzanie dostępnością Netheru
 
-`/portal end <on/off>`
-Zarządzanie dostępnością Endu
+`/portal end <on/off>` - zarządzanie dostępnością Endu
 
-`/portal reload`
-Przeładowanie pliku konfiguracyjnego
+`/portal reload` - przeładowanie pliku konfiguracyjnego
 
 ## 🧰 Konfiguracja
 W configu możesz:
