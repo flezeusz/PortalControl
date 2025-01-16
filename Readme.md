@@ -28,4 +28,5 @@ W configu możesz:
 
 ## 🔒 Permisje
 `flezy.portal.command` – dostęp do komend zarządzania wymiarami (domyślnie dla operatorów)
+
 `flezy.portal.bypass` – pozwala graczowi przechodzić między wymiarami, nawet jeśli są zablokowane (domyślnie dla operatorów)
