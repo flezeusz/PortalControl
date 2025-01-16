@@ -6,7 +6,6 @@ group = "pl.flezy"
 version = "1.2"
 
 repositories {
-    mavenCentral()
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
 }
 
