@@ -1,7 +1,12 @@
-# PortalControl
-**PortalControl** - plugin do Minecraft, który umożliwia zarządzanie dostępem do wymiarów, z pełną konfiguracją dostosowaną do potrzeb serwera.
+<h1 align="center">
+    <img src="icon.png" alt="PortalControl" width="100" height="100"/> 
+    <br/>
+    PortalControl
+</h1>
 
-### Wersja: Spigot 1.17.1+
+<p align="center"><strong>PortalControl</strong> - plugin do Minecraft, który umożliwia zarządzanie dostępem do wymiarów, z pełną konfiguracją dostosowaną do potrzeb serwera.</p>
+<p align="center"><strong>Spigot 1.17.1+</p>
+
 
 ## 🌟 Funkcje
 - **Zarządzanie wymiarami** - Włączaj i wyłączaj Nether lub End
