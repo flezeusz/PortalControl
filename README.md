@@ -30,6 +30,6 @@ W configu możesz:
 - włączyć i dostosować komunikat na chacie dla graczy którzy próbują przejść do nieaktywnego wymiaru
 
 ## 🔒 Permisje
-`flezy.portal.command` – dostęp do komend zarządzania wymiarami (domyślnie dla operatorów)
+`flezy.portalcontrol.command` – dostęp do komend zarządzania wymiarami (domyślnie dla operatorów)
 
-`flezy.portal.bypass` – pozwala graczowi przechodzić między wymiarami, nawet jeśli są zablokowane
+`flezy.portalcontrol.bypass` – pozwala graczowi przechodzić między wymiarami, nawet jeśli są zablokowane
