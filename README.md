@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"><strong>PortalControl</strong> - plugin do Minecraft, który umożliwia zarządzanie dostępem do wymiarów, z pełną konfiguracją dostosowaną do potrzeb serwera.</p>
-<p align="center"><strong>Spigot 1.17.1+</p>
+<p align="center"><strong>Spigot 1.17.1+</strong></p>
 
 
 ## 🌟 Funkcje
